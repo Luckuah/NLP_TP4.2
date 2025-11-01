@@ -1,4 +1,4 @@
-# NLP_TP4 Ing5 Data-IA Groupe 2
+# NLP_TP4.2 Ing5 Data-IA Groupe 2
 ## Authors
 - Rémy Chen
 - Pavan Wickramasinghage
