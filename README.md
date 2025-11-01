@@ -5,7 +5,7 @@
 - Hadrien Lagadec
 - Lucas Lorang
 
-[Github Project](https://github.com/NZ-Azurea/NLP_TP4)
+[Github Project](https://github.com/Luckuah/NLP_TP4.2)
 
 
 ## 📦 Installation
