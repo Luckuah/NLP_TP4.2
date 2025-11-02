@@ -12,7 +12,7 @@
 
 1. Clone the repository:
    ```bash
-   https://github.com/Luckuah/NLP_TP4.2.git
+   git clone https://github.com/Luckuah/NLP_TP4.2.git
    ```
 2. Create a virtual environment (recommended):
 
